@@ -1,4 +1,4 @@
-# movie_recommendation_system
+# Movie recommendation system
 
 Movie Recommendation Systems is implemented from scratch using collaborative filtering by implementing the K-Nearest Neighbors algorithm and then the approach is revised using the matrix factorization method.
 
